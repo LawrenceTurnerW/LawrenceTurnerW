@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Pico-FF6B6B?style=for-the-badge&logo=htc&logoColor=white"/>
 </div>
 
-## 🎨 注目プロジェクト
+## 🎨 最近開発したプロジェクトで印象に残ったもの
 
 ### 🎆 [AR-HANABI-project](https://github.com/LawrenceTurnerW/AR-HANABI-project)
 Pico 4を使って、現実世界に美しい花火を打ち上げるAR体験プロジェクト<br>
