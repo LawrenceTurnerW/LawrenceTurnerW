@@ -1,4 +1,4 @@
-# Lawrence Turner のリポジトリ
+# Lawrence Turner のプロフィール
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mochiy+Pop+P+One&duration=2000&pause=1000&color=F77733&vCenter=true&width=435&lines=%E7%A7%81%E3%81%AE%E5%80%8B%E4%BA%BA%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81;%E5%AE%8C%E5%85%A8%E3%81%AB%E7%90%86%E8%A7%A3%E3%81%97%E3%81%9F;NullPointerException)](https://git.io/typing-svg)
 
