@@ -1,23 +1,23 @@
-# こんにちは！ 👋 Lawrence Turner です
+# Lawrence Turner のリポジトリ
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AR%E9%96%8B%E7%99%BA%E8%80%85;Unity%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2;%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%BF%E3%83%BC;%E7%A6%8F%E4%BA%95%E5%9C%A8%E4%BD%8F&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mochiy+Pop+P+One&duration=2000&pause=1000&color=F77733&vCenter=true&width=435&lines=%E7%A7%81%E3%81%AE%E5%80%8B%E4%BA%BA%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81;%E5%AE%8C%E5%85%A8%E3%81%AB%E7%90%86%E8%A7%A3%E3%81%97%E3%81%9F;NullPointerException)](https://git.io/typing-svg)
 
 ## 🚀 自己紹介
 
-- 🎮 **AR/VR開発者** として没入感のある体験を創造しています
-- 🎯 現在 **AR花火プロジェクト** と **ハロウィンバトル** を開発中
-- 🌱 **Quest 3開発** と **Unity AR Foundation** を探求中
-- 📍 **福井県** 在住
-- 💡 常に新しいAR/VR技術にワクワクしています
+福井県を拠点に、自由気ままにゲームやアプリケーションを開発しています。
+業務ではJavaを使用し、バックエンドを担当しています。
+最近はAR/VR開発と、Unityを使った開発に興味があります。
+常に新しいAR/VR技術にワクワクしています。
 
 ## 🛠️ 技術スタック
 
 <div align="center">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oculus-1C1E20?style=for-the-badge&logo=oculus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Meta-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pico-FF6B6B?style=for-the-badge&logo=htc&logoColor=white"/>
@@ -26,22 +26,27 @@
 ## 🎨 注目プロジェクト
 
 ### 🎆 [AR-HANABI-project](https://github.com/LawrenceTurnerW/AR-HANABI-project)
-Pico4を使用してARで美しい花火を体験
+Pico 4を使って、現実世界に美しい花火を打ち上げるAR体験プロジェクト
+ウェブアプリケーションから指定した形の花火を打ち上げることもできます。webアプリケーションは友人に作ってもらいました。
 - **技術**: Unity, AR Foundation, Pico SDK
 - **特徴**: 没入感のある花火演出、リアルなパーティクル効果
 
 ### 🎃 [HalloweenBattle](https://github.com/LawrenceTurnerW/HalloweenBattle)
-ハロウィンテーマのゲーム開発
+ハロウィンテーマのゲーム開発です。
+みどころはQuest3の空間ジオメトリ作成機能をりようして、壁や机にオブジェクトが反射するようにしたところです。
 - **技術**: C#, Unity
 - **特徴**: ハロウィンの雰囲気、バトル機能
 
 ### 🔄 [AR-position-sync](https://github.com/LawrenceTurnerW/AR-position-sync)
-ARマルチプレイ向けワンクリック位置同期システム
+ARマルチプレイ向けワンクリック位置同期システムを作成しました。
+作成しただけで保守も活用もしていないのでもったいないです。
+追記：そんなことをしていたら公式から位置同期システムが出た
 - **技術**: C#, Unity, AR Foundation
 - **特徴**: リアルタイム位置同期、マルチプレイヤー対応
 
 ### 🛡️ [ARTowerDefense](https://github.com/LawrenceTurnerW/ARTowerDefense)
 AR空間でのタワーディフェンスゲーム
+作りかけ
 - **技術**: C#, Unity
 - **特徴**: AR空間での戦略ゲーム
 
@@ -63,21 +68,20 @@ AR空間でのタワーディフェンスゲーム
 
 ## 🎯 現在の取り組み
 
-- 🔮 **AR/VRイノベーション**: 没入技術の可能性を追求
-- 🎮 **ゲーム開発**: 魅力的なインタラクティブ体験の創造
-- 🚀 **Quest 3開発**: 次世代VR機能の探求
-- 🌐 **オープンソース**: AR/VRコミュニティへの貢献
+- 🔮 AR/VR開発
+- 🎮 ゲーム開発
+- 🌐 オープンソース: AR/VRコミュニティへの貢献
+- 🤖 AIやばい、仕事なくなる～けどAI使って開発するの楽しくて辞められない
 
 ## 💭 開発への想い
 
 > 「AR楽しい」という気持ちを大切に、  
 > 技術を通じて人々に新しい体験を届けたい
 
+↑AIに書かせたらいい感じのことを書いてくれました
+
 ## 🏆 実績・経験
 
-- 🎯 **AR花火プロジェクト**: Pico4での没入型AR体験開発
-- 🎮 **ハロウィンバトル**: Unity C#でのゲーム開発
-- 🔧 **AR位置同期**: マルチプレイヤーAR技術の実装
 - 🌐 **COVID-19対策**: Code for Japanプロジェクトへの貢献
 
 ## 💬 つながりましょう！
